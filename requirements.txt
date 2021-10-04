@@ -1,0 +1,18 @@
+streamlit
+cv2
+numpy
+pandas  
+pytesseract
+pdf2image
+matplotlib
+from matplotlib import pyplot
+from matplotlib import patches
+base64
+os
+json
+pickle
+uuid
+re
+io
+from io import BytesIO
+xlsxwriter
