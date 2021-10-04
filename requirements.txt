@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas  
+pytesseract
+pdf2image
+matplotlib
+uuid
+pyngrok
