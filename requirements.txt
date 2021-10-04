@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+numpy
+pandas  
+pytesseract
+pdf2image
+matplotlib
+os
+json
+pickle
+uuid
+re
+io
+xlsxwriter
